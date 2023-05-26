@@ -41,10 +41,8 @@ body {
   }
 
   .icon{
-    
-    top: 0%;
-    left: 50%;
-    transform: translateX(40%);
+    display: flex;
+    justify-content: center;
     
   }
 
